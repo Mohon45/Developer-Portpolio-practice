@@ -69,3 +69,8 @@ p{
     border-image: linear-gradient(orange, tomato);
     border-image-slice: 1;
 }
+footer p{
+    text-align: center;
+    font-weight: bolder;
+    color: black;
+}
